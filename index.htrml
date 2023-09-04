@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> Mi Página HTML</title>
+<style>
+<h1>{color:blue;}
+body{background-color:red;}
+</style>
+</head>
+<body>
+<p> Mi primer párrafo</p>
+<script>
+var nombre=wimdow prompt("ingrese nombre");
+window.alert("hola+nopmbre");
+</body></html>
