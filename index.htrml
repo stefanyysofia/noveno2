@@ -7,8 +7,8 @@ body{background-color:red;}
 </style>
 </head>
 <body>
+<h1>Bienvenidos</h1>
 <p> Mi primer párrafo</p>
-<script>
-var nombre=wimdow prompt("ingrese nombre");
-window.alert("hola+nopmbre");
-</body></html>
+
+</body>
+</html>
