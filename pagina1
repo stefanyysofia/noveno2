@@ -4,6 +4,7 @@
 <style>
 <h1>{color:blue;}
 body{background-color:red;}
+<a href="Pagina1.html">Ir a la otras página</a>
 </style>
 </head>
 <body>
